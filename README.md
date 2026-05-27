@@ -1,4 +1,8 @@
 # grok-cli
+[![Stars](https://img.shields.io/github/stars/jhofdsajkjh/grok-cli?style=social)](https://github.com/jhofdsajkjh/grok-cli)
+Status: Stable | License: MIT
+
+# grok-cli
 
 [中文说明](README.zh-CN.md)
 
